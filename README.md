@@ -1,2 +1,2 @@
 # Smart-Loan-Recovery-System-
-This project focuses on predicting loan defaults and optimizing recovery strategies using machine learning. The goal is to support data-driven decision-making in loan recovery by combining statistical analysis, clustering, and classification models.
+This project focuses on predicting loan defaults and optimizing recovery strategies using machine learning. We analyze borrower profiles, identify high-risk segments, and build predictive models to estimate default probabilities. The goal is to support data-driven decision-making in loan recovery by combining statistical analysis, clustering, and classification models.
